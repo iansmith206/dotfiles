@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ianlucassmith@gmail.com
+	name = Ian Smith
